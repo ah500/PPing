@@ -1,9 +1,5 @@
 Stage 1:
 
-save all inllustrations in /images subfolder
-Copy this list of instructions into your project folder
-Check that all the images are there
-
 Search for block markup over page boundaries. E.g. search \n([\*#])/(\n+[^\n]+\n+)/\1\n
 and inline markup over page boundaries: </(\w+)>(\n+[^\n]+\n+ *)<\1>
 
