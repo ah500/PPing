@@ -186,7 +186,7 @@
  'Pg185' => {'offset' => '4869.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
 );
 
-$::bookmarks[0] = '1307.0';
+$::bookmarks[0] = '3984.11';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Florence Nightingale\page_images\\';
 
@@ -1117,6 +1117,7 @@ $::proofers{'185'}[4] = 'bertzi';
 $::proofers{'185'}[5] = 'hazeleyeflgal';
 
 
+$::operationshash{'Fixup Routine'}='2013-08-15 16:11:19';
 
 
 $::spellindexbkmrk = '';
