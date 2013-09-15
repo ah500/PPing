@@ -4,11 +4,11 @@
 
 
 
-/*
+/F
 FLORENCE NIGHTINGALE
 
 THE ANGEL OF THE CRIMEA
-*/
+F/
 -----File: 002.png---\jvess00\alohacurl\Katt83\karo3211\cmspence\----------
 [Blank Page]
 -----File: 003.png---\rj45\alohacurl\Katt83\karo3211\cmspence\-------------
@@ -21,7 +21,7 @@ THE ANGEL OF THE CRIMEA
 
 
 
-/*
+/F
 FLORENCE NIGHTINGALE
 THE ANGEL OF THE CRIMEA
 
@@ -66,7 +66,7 @@ WORKER FOR THE POOR, THE SICK, AND THE
 SORROWFUL, THIS BRIEF RECORD OF AN
 HEROIC LIFE IS AFFECTIONATELY
 DEDICATED
-*/
+F/
 -----File: 008.png---\jvess00\alohacurl\Katt83\karo3211\cmspence\----------
 [Blank Page]
 -----File: 009.png---\jvess00\alohacurl\Katt83\karo3211\cmspence\----------
@@ -772,7 +772,7 @@ know.)
 Perhaps they sang, too; perhaps they sang the
 pretty old Maypole Song. Do you know it?
 
-/*
+/P
 Come lasses and lads, get leave of your dads,
 And away to the Maypole hie,
 For ev'ry fair has a sweetheart there,
@@ -790,7 +790,7 @@ The fiddler then began
 To play the tune again,
 And ev'ry girl did trip it, trip it,
 Trip it to the men.
-*/
+P/
 
 Then when feast and dance and song were all
 over, it was time to re-form the procession and take
@@ -912,7 +912,7 @@ been sung by generation after generation. Poor Anthony
 Babington over at Lea Hall may have listened
 on Christmas Eve to the same sweet old songs.
 
-/*
+/P
 As Joseph was a-walking,
   He heard an angel sing,
 "This night shall be the birthnight
@@ -948,7 +948,7 @@ Then be you glad, good people,
   At this time of the year;
 And light you up your candles,
   For His star it shineth clear.
-*/
+P/
 
 Then who so glad as Florence to call the singers
 in and bid them welcome and "Merry Christmas!"
@@ -1315,7 +1315,7 @@ CHAPTER VI.
 
 THE TRUMPET CALL.
 
-/*
+/P
 Willie, fold your little hands;[A]
   Let it drop--that "soldier" toy;
 Look where father's picture stands--
@@ -1339,12 +1339,12 @@ Is that spot, whate'er it be,
 Where he stands--no other word--
 <i>Stands</i>--God sure the child's prayers heard--
   Near the Alma River.
-*/
+P/
 
 [Footnote A: "By the Alma River," by Dinah Maria Mulock Craik.]
 -----File: 058.png---\Old Ed\caanonymous\seowphm\picklespeach\hazeleyeflgal\-
 
-/*
+/P
 Willie, listen to the bells
   Ringing in the town to-day;
 That's for victory. No knell swells
@@ -1381,7 +1381,7 @@ In some eyes--child, say that prayer
 Once again--a different one--
 Say "O God! Thy will be done,
   By the Alma River."
-*/
+P/
 
 
 Open your atlas at the map of Russia.
@@ -1566,7 +1566,7 @@ claimed the victory, while neither gained any signal
 advantage.
 -----File: 066.png---\mrscomputerman\VerenaM\seowphm\endara84\hazeleyeflgal\-
 
-/*
+/P
 Half a league, half a league,[A]
     Half a league onward,
 All in the valley of Death
@@ -1595,12 +1595,7 @@ Boldly they rode and well;
 Into the jaws of Death,
 Into the mouth of Hell,
     Rode the six hundred.
-*/
 
-[Footnote A: "Charge of the Light Brigade," by Alfred, Lord Tennyson.]
------File: 067.png---\mrscomputerman\VerenaM\seowphm\picklespeach\hazeleyeflgal\-
-
-/*
 Flashed all their sabres bare,
 Flashed as they turned in air,
 Sabring the gunners there,
@@ -1632,7 +1627,11 @@ O the wild charge they made!
 Honor the charge they made!
 Honor the Light Brigade,
     Noble six hundred!
-*/
+P/
+
+[Footnote A: "Charge of the Light Brigade," by Alfred, Lord Tennyson.]
+-----File: 067.png---\mrscomputerman\VerenaM\seowphm\picklespeach\hazeleyeflgal\-
+
 -----File: 068.png---\mrscomputerman\VerenaM\seowphm\endara84\hazeleyeflgal\-
 
 I have already spoken of William Howard Russell.
@@ -1819,7 +1818,7 @@ Nightingale's Song to the Sick Soldier," which became
 very popular, and was constantly quoted in
 those days.
 
-/*
+/P
 Listen, soldier, to the tale of the tender nightingale,
   'Tis a charm that soon will ease your wounds so cruel,
 Singing medicine for your pain, in a sympathetic strain,
@@ -1845,7 +1844,7 @@ Singing succour to the brave, and a rescue from the grave,
   Hear the nightingale that's come to the Crimea;
 'Tis a nightingale as strong in her heart as in her song,
   To carry out so gallant an idea.
-*/
+P/
 
 Of course there were some people who shook
 their heads; there always are when any new work
@@ -2562,10 +2561,10 @@ on opening the bag, what do you think was there?
 A blacking-brush and a pot of Warren's jet, and on
 the pot was written,
 
-/*
+/P
 "Poor young men their boots must black;
 Use me and cork me and put me back!"
-*/
+P/
 
 So Giglio laughed and blacked his boots, and put
 the brush and the bottle into the bag.
@@ -2752,7 +2751,7 @@ CHAPTER XI.
 
 THE LADY WITH THE LAMP.
 
-/*
+/P
 Whene'er a noble deed is wrought,[A]
 Whene'er is spoken a noble thought,
   Our hearts, in glad surprise,
@@ -2777,12 +2776,12 @@ The wounded from the battle-plain,
 In dreary hospitals of pain,
   The cheerless corridors,
   The cold and stony floors.
-*/
+P/
 
 [Footnote A: "Santa Filomena," by Henry Wadsworth Longfellow.]
 -----File: 111.png---\matt0001\alohacurl\seowphm\kjyg\hazeleyeflgal\-------
 
-/*
+/P
 Lo! in that house of misery
 A lady with a lamp I see
   Pass through the glimmering gloom,
@@ -2812,7 +2811,7 @@ Nor even shall be wanting here
 The palm, the lily, and the spear,
   The symbols that of yore
   Saint Filomena bore.
-*/
+P/
 -----File: 112.png---\jvess00\alohacurl\seowphm\wilburn0\hazeleyeflgal\----
 
 
@@ -3191,7 +3190,7 @@ CHAPTER XII.
 
 WINTER.
 
-/*
+/P
 O the long and dreary winter![A]
 O the cold and cruel winter!
 Ever thicker, thicker, thicker
@@ -3213,7 +3212,7 @@ Hungry was the air around them,
 Hungry was the sky above them,
 And the hungry stars in heaven
 Like the eyes of wolves glared at them!
-*/
+P/
 
 [Footnote A: "Hiawatha," by Henry Wadsworth Longfellow.]
 -----File: 127.png---\rj45\swankypup\seowphm\bertzi\hazeleyeflgal\---------
@@ -3588,10 +3587,10 @@ through that terrible winter and spring, of
 her being unable to perform the duties she had
 taken upon her. She might have said with Sir Galahad:
 
-/*
+/P
 "My strength is as the strength of ten
 Because my heart is pure."
-*/
+P/
 -----File: 141.png---\Bushartist\alohacurl\seowphm\bertzi\mle\-------------
 
 
@@ -4360,9 +4359,9 @@ like snow against the deep blue sky. This is the
 men and the devoted nurses who died in the war.
 At the foot of the cross are these words:
 
-/*
+/P
 "Lord have mercy upon us."
-*/
+P/
 
 
 To every Englishman--nay, to everyone of any
