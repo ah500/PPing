@@ -186,7 +186,7 @@
  'Pg185' => {'offset' => '4879.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
 );
 
-$::bookmarks[0] = '33.0';
+$::bookmarks[0] = '35.26';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Florence Nightingale\page_images\\';
 
