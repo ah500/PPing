@@ -1,7 +1,5 @@
 Stage 1:
 
-search for ------- and check all separators are gone!
-
 scano checks (from fixup, word freq routine)
 	regex
 	misspelled
