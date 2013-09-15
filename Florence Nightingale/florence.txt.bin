@@ -162,7 +162,7 @@
  'Pg161' => {'offset' => '4155.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg162' => {'offset' => '4183.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg163' => {'offset' => '4210.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg164' => {'offset' => '4238.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg164' => {'offset' => '4236.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg165' => {'offset' => '4266.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg166' => {'offset' => '4291.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg167' => {'offset' => '4319.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
@@ -186,7 +186,7 @@
  'Pg185' => {'offset' => '4879.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
 );
 
-$::bookmarks[0] = '35.26';
+$::bookmarks[0] = '22.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Florence Nightingale\page_images\\';
 
