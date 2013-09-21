@@ -138,7 +138,7 @@
  'Pg137' => {'offset' => '3340.49', 'label' => 'Pg 125', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg138' => {'offset' => '3366.43', 'label' => 'Pg 126', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg139' => {'offset' => '3392.60', 'label' => 'Pg 127', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg140' => {'offset' => '3418.63', 'label' => 'Pg 128', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg140' => {'offset' => '3419.0', 'label' => 'Pg 128', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg141' => {'offset' => '3441.2', 'label' => 'Pg 129', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg142' => {'offset' => '3469.25', 'label' => 'Pg 130', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg143' => {'offset' => '3499.49', 'label' => 'Pg 131', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -160,7 +160,7 @@
  'Pg159' => {'offset' => '3931.48', 'label' => 'Pg 147', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg160' => {'offset' => '3957.46', 'label' => 'Pg 148', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg161' => {'offset' => '3980.49', 'label' => 'Pg 149', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg162' => {'offset' => '4009.61', 'label' => 'Pg 150', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg162' => {'offset' => '4008.0', 'label' => 'Pg 150', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg163' => {'offset' => '4035.48', 'label' => 'Pg 151', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg164' => {'offset' => '4060.51', 'label' => 'Pg 152', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg165' => {'offset' => '4089.53', 'label' => 'Pg 153', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -186,7 +186,7 @@
  'Pg185' => {'offset' => '4681.33', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
 );
 
-$::bookmarks[0] = '4701.0';
+$::bookmarks[0] = '4582.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Florence Nightingale\page_images\\';
 
@@ -1117,10 +1117,14 @@ $::proofers{'185'}[4] = 'bertzi';
 $::proofers{'185'}[5] = 'hazeleyeflgal';
 
 
-$::operationshash{'Found last page separator'}='2013-08-15 16:21:30';
+$::operationshash{'Gutcheck'}='2013-08-21 18:29:33';
+$::operationshash{'Word Frequency'}='2013-08-21 18:26:16';
+$::operationshash{'Check Stealthos Word Frequency'}='2013-08-21 18:27:21';
 $::operationshash{'Begin Page Separators Fixup'}='2013-08-15 16:18:05';
-$::operationshash{'Remove end-of-line spaces'}='2013-08-15 16:12:22';
+$::operationshash{'Found last page separator'}='2013-08-15 16:21:30';
+$::operationshash{'Check spelling wordfrequency'}='2013-08-21 18:27:31';
 $::operationshash{'Fixup Routine'}='2013-08-15 16:11:19';
+$::operationshash{'Remove end-of-line spaces'}='2013-08-15 16:12:22';
 
 
 $::spellindexbkmrk = '';

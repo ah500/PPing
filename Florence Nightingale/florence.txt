@@ -3079,7 +3079,7 @@ P/
 [Footnote A: "Hiawatha," by Henry Wadsworth Longfellow.]
 
 
-The bad weather commenced about November
+"The bad weather commenced about November
 the 10th, and has continued
 ever since. A winter campaign is under
 no circumstances child's play; but
@@ -3412,10 +3412,10 @@ on the sick in the Barrack Hospital, and his services
 were needed in twenty-four wards."
 
 [Footnote A: Rachel was a famous French actress, but I cannot
+imagine any real resemblance between her and Miss Nightingale.]
 
 Next three of the devoted nurses were taken, two
 dying of fever, the third of cholera. More and
-imagine any real resemblance between her and Miss Nightingale.]
 more severe grew the strain of work and anxiety for
 Miss Nightingale, and those who watched her with
 loving anxiety trembled. So fragile, so worn; such
@@ -4005,8 +4005,6 @@ with sick and wounded soldiers, and until the formal
 peace was signed an "army of occupation" must
 still remain in the Crimea. Miss Nightingale knew
 well that idleness is the worst possible thing for
-
-[Footnote A: Tooley, "Life of Florence Nightingale," p. 223.]
 soldiers (as for everyone); and while she cared for
 the sick and wounded, she took as much pains to
 provide employment and amusement for the rest.
@@ -4024,6 +4022,8 @@ bitter cold up there on the mountainside. The hut
 was not weather-proof, and they sometimes found
 their beds covered with snow in the morning; but
 they did not mind trifles like this.
+
+[Footnote A: Tooley, "Life of Florence Nightingale," p. 223.]
 
 "The sisters are all quite well and cheerful,"
 writes Miss Nightingale; "thank God for it! They
