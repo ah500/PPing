@@ -104,7 +104,7 @@
  'Pg103' => {'offset' => '2419.50', 'label' => 'Pg 91', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg104' => {'offset' => '2445.54', 'label' => 'Pg 92', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg105' => {'offset' => '2488.45', 'label' => 'Pg 93', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg106' => {'offset' => '2515.55', 'label' => 'Pg 94', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg106' => {'offset' => '2515.54', 'label' => 'Pg 94', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg107' => {'offset' => '2541.51', 'label' => 'Pg 95', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg108' => {'offset' => '2569.52', 'label' => 'Pg 96', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg109' => {'offset' => '2597.45', 'label' => 'Pg 97', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -186,7 +186,7 @@
  'Pg185' => {'offset' => '4681.33', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
 );
 
-$::bookmarks[0] = '4582.0';
+$::bookmarks[0] = '100.43';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Florence Nightingale\page_images\\';
 
@@ -1118,12 +1118,19 @@ $::proofers{'185'}[5] = 'hazeleyeflgal';
 
 
 $::operationshash{'Gutcheck'}='2013-08-21 18:29:33';
-$::operationshash{'Word Frequency'}='2013-08-21 18:26:16';
+$::operationshash{'Check emdashes'}='2013-08-21 18:35:36';
 $::operationshash{'Check Stealthos Word Frequency'}='2013-08-21 18:27:21';
+$::operationshash{'Check hyphens'}='2013-08-21 18:35:37';
 $::operationshash{'Begin Page Separators Fixup'}='2013-08-15 16:18:05';
 $::operationshash{'Found last page separator'}='2013-08-15 16:21:30';
+$::operationshash{'Check , Upper'}='2013-08-21 18:36:17';
 $::operationshash{'Check spelling wordfrequency'}='2013-08-21 18:27:31';
 $::operationshash{'Fixup Routine'}='2013-08-15 16:11:19';
+$::operationshash{'Word Frequency'}='2013-08-21 18:35:34';
+$::operationshash{'Check MiXeD CasE'}='2013-08-21 18:36:40';
+$::operationshash{'Check Accents'}='2013-08-21 18:36:30';
+$::operationshash{'Check . lower'}='2013-08-21 18:36:26';
+$::operationshash{'Check ALL CAPS'}='2013-08-21 18:36:39';
 $::operationshash{'Remove end-of-line spaces'}='2013-08-15 16:12:22';
 
 
