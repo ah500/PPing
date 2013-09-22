@@ -1,9 +1,5 @@
 Stage 2:
 
-TN, include:   _Underscores_ have been used to indicate _italic_ fonts.
-indent by a couple of spaces.
-spell check
-
 save as correct character coding
 
 prepare sr files with sensible names and no images, zip
@@ -96,5 +92,3 @@ Some useful links: http://www.pgdp.net/wiki/The_Proofreader%27s_Guide_to_EPUB#Ho
 http://www.pgdp.net/wiki/Post-Processing_Advice#ppg
 
 Transcribers note:
-
-_Italics_ and =bold=
