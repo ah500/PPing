@@ -1,7 +1,5 @@
 Stage 1:
 
-move image tags to paragraph breaks
-
 balanced markup search: \<(\w+)>\n?[^<]+<(?!/\1>)
 malformed markup: <\w+/>|<[^!\w/]|[^-\w"]>|,/?\w>|</?\w\.|</?>|[^<]/\w+>|</?\w+[^\w> ]
 duplicate words: [^a-zA-ZהצüÄÖÜ‗ביםףתÁÉÍÓÚאטלעשÀÈÌÒÙרזØÆ]([a-zA-ZהצüÄÖÜ‗ביםףתÁÉÍÓÚאטלעשÀÈÌÒÙרזØÆ'-]+)[ \n]+\1[^a-zA-ZהצüÄÖÜ‗ביםףתÁÉÍÓÚאטלעשÀÈÌÒÙרזØÆ]
