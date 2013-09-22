@@ -1,10 +1,5 @@
 Stage 1:
 
-duplicate words: [^a-zA-ZäöüÄÖÜßáéíóúÁÉÍÓÚàèìòùÀÈÌÒÙøæØÆ]([a-zA-ZäöüÄÖÜßáéíóúÁÉÍÓÚàèìòùÀÈÌÒÙøæØÆ'-]+)[ \n]+\1[^a-zA-ZäöüÄÖÜßáéíóúÁÉÍÓÚàèìòùÀÈÌÒÙøæØÆ]
-add non breaking spaces into abbreviations, ellipses, dashes
-
-Web based checks e.g. ppspell
-
 Check my project notes
 
 *	*	* save ascii backup/html version *	*	*
