@@ -1,7 +1,5 @@
 Stage 2:
 
-Check for [**
-
 pptext
 remove end of line spaces
 save
