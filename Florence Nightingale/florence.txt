@@ -72,39 +72,40 @@ Kinglake's "Invasion of the Crimea."
 CONTENTS
 
 
-/*
-CHAPTER      PAGE
+/*[2,70]
+CHAPTER                                   PAGE
 
 I. HOW FLORENCE GOT HER NAME--HER THREE
-HOMES      1
+HOMES                                     1
 
-II. LITTLE FLORENCE      9
+II. LITTLE FLORENCE                       9
 
-III. THE SQUIRE'S DAUGHTER      19
+III. THE SQUIRE'S DAUGHTER                19
 
-IV. LOOKING OUT      32
+IV. LOOKING OUT                           32
 
-V. WAITING FOR THE CALL      40
+V. WAITING FOR THE CALL                   40
 
-VI. THE TRUMPET CALL      45
+VI. THE TRUMPET CALL                      45
 
-VII. THE RESPONSE      58
+VII. THE RESPONSE                         58
 
-VIII. SCUTARI      68
+VIII. SCUTARI                             68
 
-IX. THE BARRACK HOSPITAL      75
+IX. THE BARRACK HOSPITAL                  75
 
-X. THE LADY-IN-CHIEF      85
+X. THE LADY-IN-CHIEF                      85
 
-XI. THE LADY WITH THE LAMP      98
+XI. THE LADY WITH THE LAMP                98
 
-XII. WINTER      114
+XII. WINTER                               114
 
-XIII. MISS NIGHTIGALE UNDER FIRE      129
+XIII. MISS NIGHTIGALE UNDER FIRE          129
 
-XIV. THE CLOSE OF THE WAR     143
+XIV. THE CLOSE OF THE WAR                 143
 
-XV. THE TASKS OF PEACE      159
+XV. THE TASKS OF PEACE                    159
+
 */
 
 
@@ -4435,9 +4436,7 @@ Let us think of that quiet room as one of the holy
 places of the earth; let us think of her, and take
 our leave of her, with loving and thankful hearts.
 
-/*
 THE END.
-*/
 
 
 STORIES FOR YOUNG READERS
