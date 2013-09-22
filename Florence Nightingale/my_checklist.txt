@@ -1,6 +1,5 @@
 Stage 2:
 
-greek
 [OE]->Oe [oe]->oe
 remove ^ from superscripts
 any other business
