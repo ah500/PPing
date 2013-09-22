@@ -36,7 +36,7 @@ NEW YORK AND LONDON
 1911
 
 
-<sc>Copyright, 1909, by</sc>
+Copyright, 1909, by
 D. APPLETON AND COMPANY
 
 _Published September, 1909_
@@ -75,36 +75,36 @@ CONTENTS
 /*
 CHAPTER      PAGE
 
-I. <sc>How Florence Got Her Name--Her Three
-Homes</sc>      1
+I. HOW FLORENCE GOT HER NAME--HER THREE
+HOMES      1
 
-II. <sc>Little Florence</sc>      9
+II. LITTLE FLORENCE      9
 
-III. <sc>The Squire's Daughter</sc>      19
+III. THE SQUIRE'S DAUGHTER      19
 
-IV. <sc>Looking Out</sc>      32
+IV. LOOKING OUT      32
 
-V. <sc>Waiting for the Call</sc>      40
+V. WAITING FOR THE CALL      40
 
-VI. <sc>The Trumpet Call</sc>      45
+VI. THE TRUMPET CALL      45
 
-VII. <sc>The Response</sc>      58
+VII. THE RESPONSE      58
 
-VIII. <sc>Scutari</sc>      68
+VIII. SCUTARI      68
 
-IX. <sc>The Barrack hospital</sc>      75
+IX. THE BARRACK HOSPITAL      75
 
-X. <sc>The Lady-in-Chief</sc>      85
+X. THE LADY-IN-CHIEF      85
 
-XI. <sc>The Lady with the Lamp</sc>      98
+XI. THE LADY WITH THE LAMP      98
 
-XII. <sc>Winter</sc>      114
+XII. WINTER      114
 
-XIII. <sc>Miss Nightigale Under Fire</sc>      129
+XIII. MISS NIGHTIGALE UNDER FIRE      129
 
-XIV. <sc>The Close of the War</sc>     143
+XIV. THE CLOSE OF THE WAR     143
 
-XV. <sc>The Tasks of Peace</sc>      159
+XV. THE TASKS OF PEACE      159
 */
 
 
@@ -3292,7 +3292,7 @@ clubs, and who knew all that there was to know
 about cookery. He read the _Times_, and in February,
 1855, he wrote to the editor:
 
-"<sc>Sir</sc>: After carefully perusing the letter of your
+"SIR: After carefully perusing the letter of your
 correspondent, dated Scutari ... I perceive that,
 though the kitchen under the superintendence of
 Miss Nightingale affords so much relief, the system
@@ -4446,7 +4446,7 @@ STORIES FOR YOUNG READERS
 8vo. $2.00 Net._
 
 /#
-By <sc>William R. A. Wilson</sc>.
+By William R. A. Wilson.
 #/
 
 A beautifully illustrated volume filled with interesting and salient
@@ -4456,7 +4456,7 @@ features of English history, folk-lore, politics, and scenery.
 12mo. $1.50._
 
 /#
-By <sc>James Shelley Hamilton</sc>, Amherst '06.
+By James Shelley Hamilton, Amherst '06.
 #/
 
 College sports are always a subject of interest to young readers,
@@ -4469,7 +4469,7 @@ York_.
 $1.50._
 
 /#
-By Lieut. <sc>Hugh S. Johnson</sc>.
+By Lieut. Hugh S. Johnson.
 #/
 
 A story of West Point under the old code. "Every boy with
@@ -4479,7 +4479,7 @@ Boston._
 =THE SUBSTITUTE.= _Illustrated. 12mo. $1.50._
 
 /#
-By <sc>Walter Camp</sc>.
+By Walter Camp.
 #/
 
 "Presents the ideal to football enthusiasts. The author's name
@@ -4490,7 +4490,7 @@ Courant, Hartford, Conn._
 12mo. $1.50._
 
 /#
-By <sc>Joseph A. Altsheler</sc>.
+By Joseph A. Altsheler.
 #/
 
 This story deals with the further adventures of the two young
@@ -4509,8 +4509,8 @@ TWO GOOD NOVELS.
 
 =Cy Whittaker's Place.=
 
-A Novel of Cape Cod Life, by <sc>Joseph C.
-Lincoln</sc>, Author of "Mr. Pratt," "Cap'n Eri," etc.
+A Novel of Cape Cod Life, by Joseph C.
+Lincoln, Author of "Mr. Pratt," "Cap'n Eri," etc.
 27 illustrations by Wallace Morgan, colored inlay
 on cover. 12mo. Cloth, $1.50.
 
@@ -4530,8 +4530,8 @@ of readers. Cy Whittaker is the David Harum of Cape Cod.
 
 =The Whispering Man.=
 
-A Detective Story Worth While, by <sc>Henry
-Kitchell Webster</sc>. Frontispiece. 12mo. Decorated
+A Detective Story Worth While, by Henry
+Kitchell Webster. Frontispiece. 12mo. Decorated
 cloth, $1.50.
 
 /#
