@@ -1,6 +1,5 @@
 Stage 2:
 
-check correct number of blank lines as required (search for >=2 blanks and check each one)
 format image captions
 
 move footnotes to correct location
