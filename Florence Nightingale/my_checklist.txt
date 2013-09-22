@@ -1,7 +1,3 @@
-
-*	*	* save ascii backup/html version *	*	*
-
-
 Stage 2:
 
 
