@@ -1,6 +1,5 @@
 Stage 2:
 
-pptext
 remove end of line spaces
 save
 rewrap
