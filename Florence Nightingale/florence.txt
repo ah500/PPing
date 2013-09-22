@@ -4442,7 +4442,7 @@ THE END.
 
 STORIES FOR YOUNG READERS
 
-<b>JOURNEYS OF THE KIT KAT CLUB.</b> _Illustrated.
+=JOURNEYS OF THE KIT KAT CLUB.= _Illustrated.
 8vo. $2.00 Net._
 
 /#
@@ -4452,7 +4452,7 @@ By <sc>William R. A. Wilson</sc>.
 A beautifully illustrated volume filled with interesting and salient
 features of English history, folk-lore, politics, and scenery.
 
-<b>BUTT CHANLER, FRESHMAN.</b> _Illustrated.
+=BUTT CHANLER, FRESHMAN.= _Illustrated.
 12mo. $1.50._
 
 /#
@@ -4465,7 +4465,7 @@ and here are incidents that are dear to all college associates.
 "The story is breezy, bright, and clean."--_The Bookseller, New
 York_.
 
-<b>WILLIAMS OF WEST POINT.</b> _Illustrated. 12mo.
+=WILLIAMS OF WEST POINT.= _Illustrated. 12mo.
 $1.50._
 
 /#
@@ -4476,7 +4476,7 @@ A story of West Point under the old code. "Every boy with
 red blood in his veins will pronounce it a corker."--_The Globe,
 Boston._
 
-<b>THE SUBSTITUTE.</b> _Illustrated. 12mo. $1.50._
+=THE SUBSTITUTE.= _Illustrated. 12mo. $1.50._
 
 /#
 By <sc>Walter Camp</sc>.
@@ -4486,7 +4486,7 @@ By <sc>Walter Camp</sc>.
 is guarantee of the accuracy of descriptions of the plays."--_The
 Courant, Hartford, Conn._
 
-<b>THE FOREST RUNNERS.</b> _Illustrated in Color.
+=THE FOREST RUNNERS.= _Illustrated in Color.
 12mo. $1.50._
 
 /#
@@ -4507,7 +4507,7 @@ D. APPLETON AND COMPANY, NEW YORK.
 TWO GOOD NOVELS.
 
 
-<b>Cy Whittaker's Place.</b>
+=Cy Whittaker's Place.=
 
 A Novel of Cape Cod Life, by <sc>Joseph C.
 Lincoln</sc>, Author of "Mr. Pratt," "Cap'n Eri," etc.
@@ -4528,7 +4528,7 @@ of readers. Cy Whittaker is the David Harum of Cape Cod.
 #/
 
 
-<b>The Whispering Man.</b>
+=The Whispering Man.=
 
 A Detective Story Worth While, by <sc>Henry
 Kitchell Webster</sc>. Frontispiece. 12mo. Decorated
@@ -4549,17 +4549,17 @@ D. APPLETON AND COMPANY, NEW YORK.
 
 NOVELS BY ROBERT W. CHAMBERS.
 
-<b>SPECIAL MESSENGER.</b> _Illustrated. 12mo. Cloth, $1.50._
+=SPECIAL MESSENGER.= _Illustrated. 12mo. Cloth, $1.50._
 
 A romantic love story of a woman spy in the Civil War.
 
-<b>THE FIRING LINE.</b> _Illustrated. 12mo. Cloth, $1.50._
+=THE FIRING LINE.= _Illustrated. 12mo. Cloth, $1.50._
 
 "The tale is rich in vivid descriptions, pleasing incidents, effective situations,
 human interest and luxurious scenic effects. It is a story to be remembered."--_Grand
 Rapids Herald._
 
-<b>THE YOUNGER SET.</b> _Illustrated. Cloth, $1.50._
+=THE YOUNGER SET.= _Illustrated. Cloth, $1.50._
 
 "The Younger Set" is a novel of the swirl of wealthy New York society.
 The hero, forced out of the army by domestic troubles, returns to New York
@@ -4567,18 +4567,18 @@ homeless and idle. He finds a beautiful girl who promises ideal happiness.
 But new complications intervene and are described with what the New York
 _Sun_ calls Mr. Chambers' "amazing knack of narrative."
 
-<b>THE FIGHTING CHANCE.</b> _Illustrated. Cloth, $1.50._
+=THE FIGHTING CHANCE.= _Illustrated. Cloth, $1.50._
 
 One of the most brilliant pictures of wealthy American society ever painted;
 one of the most interesting and appealing stories ever written; one of the most
 widely read of all American novels.
 
-<b>SOME LADIES IN HASTE.</b> _Illustrated. Cloth, $1.50._
+=SOME LADIES IN HASTE.= _Illustrated. Cloth, $1.50._
 
 Mr. Chambers has written most delightfully, and in his charming satire
 depicts the plight of five society girls and five clubmen.
 
-<b>IOLE.</b> _Illustrated. Cloth, $1.25._
+=IOLE.= _Illustrated. Cloth, $1.25._
 
 "Think of eight pretty girls in pink silk pajamas and sunbonnets, brought
 up in innocence in a scientific Eden, with a 'House Beautiful' in the back-ground,
@@ -4586,7 +4586,7 @@ and a poetical father in the foreground. Think again of those rose-petalled
 creations turned loose upon New York society and then enjoy the fun
 of it all in 'Iole.'"--_Boston Herald._
 
-<b>THE TRACER OF LOST PERSONS.</b> _Illustrated. Cloth, $1.50._
+=THE TRACER OF LOST PERSONS.= _Illustrated. Cloth, $1.50._
 
 The captivating account of the strangely absorbing adventures of a "matrimonial
 sleuth," "a deputy of Cupid."
@@ -4594,14 +4594,14 @@ sleuth," "a deputy of Cupid."
 "Compared with him Sherlock Holmes is clumsy and without human
 emotions."--_Chicago Inter-Ocean._
 
-<b>THE TREE OF HEAVEN.</b> _Illustrated. Cloth, $1.50._
+=THE TREE OF HEAVEN.= _Illustrated. Cloth, $1.50._
 
 If you looked squarely into a mirror and saw your PROFILE instead of
 your full face, _if you suddenly found yourself 25 miles away from yourself_,
 you would be in one of the tantalizing situations that give fascination to this
 charming book.
 
-<b>THE RECKONING.</b> _Illustrated. Cloth, $1.50._
+=THE RECKONING.= _Illustrated. Cloth, $1.50._
 
 A story of northern New York during the last fierce fights between Tories
 and Revolutionaries and the Iroquois Indians, by which tribe the hero had
@@ -4615,7 +4615,7 @@ D. APPLETON AND COMPANY, NEW YORK.
 
 BY RALPH HENRY BARBOUR
 
-<b>The New Boy at Hilltop</b>
+=The New Boy at Hilltop=
 
 /#
 Illustrated in Colors, Ornamental Cloth Cover with Inlay
@@ -4632,7 +4632,7 @@ school life.
 #/
 
 
-<b>Winning His "Y"</b>
+=Winning His "Y"=
 
 Illustrated in Colors, 12mo, Decorated Cloth Cover, $1.50.
 
@@ -4647,7 +4647,7 @@ to a boy who has not read them as if it were not.
 #/
 
 
-<b>Double Play</b>
+=Double Play=
 
 Illustrated in Colors, 12mo, Cloth, $1.50.
 
@@ -4661,7 +4661,7 @@ from it a winning team will appeal to every boy.
 #/
 
 
-<b>Forward Pass!</b>
+=Forward Pass!=
 
 Illustrated in Colors, 12mo, Cloth, $1.50.
 
@@ -4682,7 +4682,7 @@ D. APPLETON AND COMPANY, NEW YORK
 BY WALTER CAMP
 
 
-<b>Jack Hall at Yale</b>
+=Jack Hall at Yale=
 
 Illustrated in Colors, 12mo, Cloth, $1.50.
 
@@ -4698,7 +4698,7 @@ idea than a purely athletic story, although the basis of the
 story, as in "The Substitute," is still athletics.
 
 
-<b>The Substitute</b>
+=The Substitute=
 
 Illustrated in Colors, 12mo, Cloth, $1.50.
 
