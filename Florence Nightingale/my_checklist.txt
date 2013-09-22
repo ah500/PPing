@@ -1,8 +1,5 @@
 Stage 2:
 
-check my project notes
-search for *
-
 TN, include:   _Underscores_ have been used to indicate _italic_ fonts.
 indent by a couple of spaces.
 spell check

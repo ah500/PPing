@@ -186,7 +186,7 @@
  'Pg185' => {'offset' => '3599.33', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
 );
 
-$::bookmarks[0] = '3637.32';
+$::bookmarks[0] = '29.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Florence Nightingale\page_images\\';
 
@@ -1127,7 +1127,7 @@ $::operationshash{'Check spelling wordfrequency'}='2013-08-21 18:27:31';
 $::operationshash{'Moved footnotes to landing zone'}='2013-08-22 14:24:37';
 $::operationshash{'Footnote check passed'}='2013-08-22 14:25:24';
 $::operationshash{'Check ALL CAPS'}='2013-08-21 18:36:39';
-$::operationshash{'Gutcheck'}='2013-08-21 18:29:33';
+$::operationshash{'Gutcheck'}='2013-08-22 14:34:05';
 $::operationshash{'Reindex footnotes'}='2013-08-22 12:44:04';
 $::operationshash{'Check emdashes'}='2013-08-21 18:35:36';
 $::operationshash{'Check , Upper'}='2013-08-21 18:36:17';
