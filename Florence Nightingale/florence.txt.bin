@@ -160,33 +160,33 @@
  'Pg159' => {'offset' => '3930.48', 'label' => 'Pg 147', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg160' => {'offset' => '3956.46', 'label' => 'Pg 148', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg161' => {'offset' => '3979.49', 'label' => 'Pg 149', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg162' => {'offset' => '4007.0', 'label' => 'Pg 150', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg163' => {'offset' => '4034.48', 'label' => 'Pg 151', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg164' => {'offset' => '4059.51', 'label' => 'Pg 152', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg165' => {'offset' => '4088.53', 'label' => 'Pg 153', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg166' => {'offset' => '4112.45', 'label' => 'Pg 154', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg167' => {'offset' => '4139.46', 'label' => 'Pg 155', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg168' => {'offset' => '4164.53', 'label' => 'Pg 156', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg169' => {'offset' => '4195.53', 'label' => 'Pg 157', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg170' => {'offset' => '4219.50', 'label' => 'Pg 158', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg171' => {'offset' => '4224.44', 'label' => 'Pg 159', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg172' => {'offset' => '4252.48', 'label' => 'Pg 160', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg173' => {'offset' => '4278.51', 'label' => 'Pg 161', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg174' => {'offset' => '4304.52', 'label' => 'Pg 162', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg175' => {'offset' => '4331.50', 'label' => 'Pg 163', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg176' => {'offset' => '4357.48', 'label' => 'Pg 164', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg177' => {'offset' => '4383.49', 'label' => 'Pg 165', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg178' => {'offset' => '4408.46', 'label' => 'Pg 166', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg179' => {'offset' => '4433.40', 'label' => 'Pg 167', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg180' => {'offset' => '4441.2', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg181' => {'offset' => '4441.2', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg182' => {'offset' => '4503.34', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg183' => {'offset' => '4548.34', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg184' => {'offset' => '4615.34', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg185' => {'offset' => '4680.33', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg162' => {'offset' => '4008.0', 'label' => 'Pg 150', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg163' => {'offset' => '4033.48', 'label' => 'Pg 151', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg164' => {'offset' => '4058.51', 'label' => 'Pg 152', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg165' => {'offset' => '4087.53', 'label' => 'Pg 153', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg166' => {'offset' => '4111.45', 'label' => 'Pg 154', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg167' => {'offset' => '4138.46', 'label' => 'Pg 155', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg168' => {'offset' => '4163.53', 'label' => 'Pg 156', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg169' => {'offset' => '4194.53', 'label' => 'Pg 157', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg170' => {'offset' => '4218.50', 'label' => 'Pg 158', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg171' => {'offset' => '4223.44', 'label' => 'Pg 159', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg172' => {'offset' => '4251.48', 'label' => 'Pg 160', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg173' => {'offset' => '4277.51', 'label' => 'Pg 161', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg174' => {'offset' => '4303.52', 'label' => 'Pg 162', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg175' => {'offset' => '4330.50', 'label' => 'Pg 163', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg176' => {'offset' => '4356.48', 'label' => 'Pg 164', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg177' => {'offset' => '4382.49', 'label' => 'Pg 165', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg178' => {'offset' => '4407.46', 'label' => 'Pg 166', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg179' => {'offset' => '4432.40', 'label' => 'Pg 167', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg180' => {'offset' => '4440.2', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg181' => {'offset' => '4440.2', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg182' => {'offset' => '4502.34', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg183' => {'offset' => '4547.34', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg184' => {'offset' => '4614.34', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg185' => {'offset' => '4679.33', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
 );
 
-$::bookmarks[0] = '42.32';
+$::bookmarks[0] = '4248.21';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Florence Nightingale\page_images\\';
 
@@ -1124,9 +1124,12 @@ $::operationshash{'Begin Page Separators Fixup'}='2013-08-15 16:18:05';
 $::operationshash{'Found last page separator'}='2013-08-15 16:21:30';
 $::operationshash{'Check spelling wordfrequency'}='2013-08-21 18:27:31';
 $::operationshash{'Fixup Routine'}='2013-08-15 16:11:19';
+$::operationshash{'Footnote check passed'}='2013-08-22 12:43:49';
 $::operationshash{'Check ALL CAPS'}='2013-08-21 18:36:39';
+$::operationshash{'Reindex footnotes'}='2013-08-22 12:44:04';
 $::operationshash{'Gutcheck'}='2013-08-21 18:29:33';
 $::operationshash{'Check emdashes'}='2013-08-21 18:35:36';
+$::operationshash{'Footnote Fixup'}='2013-08-22 12:41:59';
 $::operationshash{'Check , Upper'}='2013-08-21 18:36:17';
 $::operationshash{'Word Frequency'}='2013-08-21 18:35:34';
 $::operationshash{'Check Accents'}='2013-08-21 18:36:30';

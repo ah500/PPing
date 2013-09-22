@@ -1253,7 +1253,7 @@ CHAPTER VI.
 THE TRUMPET CALL.
 
 /P
-Willie, fold your little hands;[A]
+Willie, fold your little hands;[1]
   Let it drop--that "soldier" toy;
 Look where father's picture stands--
   Father, that here kissed his boy
@@ -1314,7 +1314,7 @@ Say "O God! Thy will be done,
   By the Alma River."
 P/
 
-[Footnote A: "By the Alma River," by Dinah Maria Mulock Craik.]
+[Footnote 1: "By the Alma River," by Dinah Maria Mulock Craik.]
 
 Open your atlas at the map of Russia.
 Look down toward the bottom, at that
@@ -1492,7 +1492,7 @@ claimed the victory, while neither gained any signal
 advantage.
 
 /P
-Half a league, half a league,[A]
+Half a league, half a league,[2]
     Half a league onward,
 All in the valley of Death
    Rode the six hundred.
@@ -1554,7 +1554,7 @@ Honor the Light Brigade,
     Noble six hundred!
 P/
 
-[Footnote A: "Charge of the Light Brigade," by Alfred, Lord Tennyson.]
+[Footnote 2: "Charge of the Light Brigade," by Alfred, Lord Tennyson.]
 
 I have already spoken of William Howard Russell.
 He was the war correspondent of the <i>Times</i>,
@@ -2141,9 +2141,9 @@ every night, to see that all was in order. He was
 of course expected by the orderlies, and the moment
 he raised the latch he received the word: 'All
 right, your honor!' and passed on. This was
-hospital inspection!"[A]
+hospital inspection!"[3]
 
-[Footnote A: Tooley, "Life of Florence Nightingale," p. 137.]
+[Footnote 3: Tooley, "Life of Florence Nightingale," p. 137.]
 
 In fact, these orderlies too often, I fear, bore
 some resemblance to the old class of nurses that
@@ -2199,7 +2199,7 @@ begged to be left in their blankets. It was indeed impossible
 to put men in such a state of emaciation into
 those sheets. There was no bedroom furniture of
 any kind, and only empty beer or wine bottles for
-candlesticks."[A]
+candlesticks."[4]
 
 The wards were full to overflowing, and the corridors
 crowded with sick and wounded, lying on the
@@ -2220,7 +2220,7 @@ there was, for sick and well, the wounded, the fever-stricken,
 the cholera patient. No doubt hundreds
 died from improper feeding alone.
 
-[Footnote A: Tooley, "Life of Florence Nightingale," p. 126.]
+[Footnote 4: Tooley, "Life of Florence Nightingale," p. 126.]
 
 She looked for the laundry; there was no laundry.
 There were washing contracts, but up to the
@@ -2632,7 +2632,7 @@ CHAPTER XI.
 THE LADY WITH THE LAMP.
 
 /P
-Whene'er a noble deed is wrought,[A]
+Whene'er a noble deed is wrought,[5]
 Whene'er is spoken a noble thought,
   Our hearts, in glad surprise,
   To higher levels rise.
@@ -2688,7 +2688,7 @@ The palm, the lily, and the spear,
   Saint Filomena bore.
 P/
 
-[Footnote A: "Santa Filomena," by Henry Wadsworth Longfellow.]
+[Footnote 5: "Santa Filomena," by Henry Wadsworth Longfellow.]
 
 
 Miss Nightingale's headquarters
@@ -2894,13 +2894,13 @@ the Crimea, "wants so dire as to include want of
 hospital furniture and of shirts for the patients, and
 of the commonest means for maintaining cleanliness,
 were afflicting our stricken soldiery in the
-hospitals."[A]
+hospitals."[6]
 
 Mr. McDonald did not build an English church;
 instead, he went to the Barrack Hospital and asked
 for the Lady-in-Chief.
 
-[Footnote A: Kinglake, "Invasion of the Crimea."]
+[Footnote 6: Kinglake, "Invasion of the Crimea."]
 
 I should like to have seen Florence Nightingale's
 face when she heard his story. No help needed?
@@ -3052,7 +3052,7 @@ CHAPTER XII.
 WINTER.
 
 /P
-O the long and dreary winter![A]
+O the long and dreary winter![7]
 O the cold and cruel winter!
 Ever thicker, thicker, thicker
 Froze the ice on lake and river,
@@ -3075,7 +3075,7 @@ And the hungry stars in heaven
 Like the eyes of wolves glared at them!
 P/
 
-[Footnote A: "Hiawatha," by Henry Wadsworth Longfellow.]
+[Footnote 7: "Hiawatha," by Henry Wadsworth Longfellow.]
 
 
 "The bad weather commenced about November
@@ -3260,7 +3260,7 @@ rags of clothes on lines. There, by the light of a
 rushlight, the meals were taken, the sick attended,
 and there the babies were born and nourished.
 There were twenty-two babies born from November
-to December, and many more during the winter."[A]
+to December, and many more during the winter."[8]
 
 The Lady-in-Chief soon put an end to this state
 of things. First she fed and clothed the women
@@ -3283,7 +3283,7 @@ the improvements in our system which the war must
 suggest are discussed, let not the wife and child of
 the soldier be forgotten."
 
-[Footnote A: Tooley, "Life of Florence Nightingale," p. 154.]
+[Footnote 8: Tooley, "Life of Florence Nightingale," p. 154.]
 
 Another helper came out to Scutari in those
 winter days; a gallant Frenchman, M. Soyer, who
@@ -3389,7 +3389,7 @@ no member of the fair sex can be more amiable and
 gentle than Miss Nightingale. Removed from her
 arduous and cavalierlike duties, which require the
 nerve of a Hercules--and she possesses it when required--she
-is Rachel[A] on the stage in both tragedy
+is Rachel[9] on the stage in both tragedy
 and comedy."
 
 The long and dreary winter was over. The snow
@@ -3410,7 +3410,7 @@ medical attendant in a fit state of health to wait
 on the sick in the Barrack Hospital, and his services
 were needed in twenty-four wards."
 
-[Footnote A: Rachel was a famous French actress, but I cannot
+[Footnote 9: Rachel was a famous French actress, but I cannot
 imagine any real resemblance between her and Miss Nightingale.]
 
 Next three of the devoted nurses were taken, two
@@ -3970,7 +3970,7 @@ Mayor, two judges, five right honorables, foremost
 naval and military officers, physicians, lawyers, London
 aldermen, dignitaries of the Church, dignitaries
 of nonconformist churches, twenty members of Parliament,
-and several eminent men of letters"[A]; and
+and several eminent men of letters"[10]; and
 the subscription was opened. How the money came
 pouring in! You would think no one had ever spent
 money before. The rich gave their thousands, the
@@ -3980,11 +3980,12 @@ Nightingale fund; but the offering that must have
 touched Miss Nightingale's heart most deeply was
 that of the soldiers and sailors of England. "The
 officers and men of nearly every regiment and many
-of the vessels contributed a day's pay."[A] That
+of the vessels contributed a day's pay."[11] That
 meant more to her, I warrant, than any rich man's
 thousands.
 
-[Footnote A: Tooley, "Life of Florence Nightingale," p. 220.]
+[Footnote 10: Tooley, "Life of Florence Nightingale," p. 220.]
+[Footnote 11: Tooley, "Life of Florence Nightingale," p. 223.]
 
 Before a year had passed, the fund amounted to
 over forty thousand pounds; and there is no knowing
@@ -4022,8 +4023,6 @@ was not weather-proof, and they sometimes found
 their beds covered with snow in the morning; but
 they did not mind trifles like this.
 
-[Footnote A: Tooley, "Life of Florence Nightingale," p. 223.]
-
 "The sisters are all quite well and cheerful,"
 writes Miss Nightingale; "thank God for it! They
 have made their hut look quite tidy, and put up with
@@ -4049,7 +4048,7 @@ a welted frame, suspended on the back part on which
 to recline, and well padded round the sides. It is
 fitted with patent breaks to the hind wheels so as
 to let it go gently down the steep hills of the Turkish
-roads."[A]
+roads."[12]
 
 This curious carriage is still preserved at Lea
 Hurst. Miss Nightingale left it behind her when
@@ -4061,7 +4060,7 @@ of restoring it to its owner. She must have
 been amused, I think, but no doubt she was pleased,
 too, at the kindly thought.
 
-[Footnote A: Tooley, "Life of Florence Nightingale," p. 229.]
+[Footnote 12: Tooley, "Life of Florence Nightingale," p. 229.]
 
 But this comfortable carriage only increased her
 labors, in one way, for with it she went about more
@@ -4073,9 +4072,9 @@ rocky mountain near the hospitals, giving her instructions
 while the snow was falling heavily. Then
 in the bleak dark night she would return down the
 perilous mountain road with no escort save the
-driver."[A]
+driver."[13]
 
-[Footnote A: Tooley, "Life of Florence Nightingale," pp. 231-32.]
+[Footnote 13: Tooley, "Life of Florence Nightingale," pp. 231-32.]
 
 It was not only for the invalids that Miss Nightingale
 toiled through this second winter; much of
@@ -4265,9 +4264,9 @@ answer. Of course she was willing to help everybody,
 but it stood to reason she could not receive
 them all; why, the park wouldn't have held all the
 folks that came, and besides, the old Squire wouldn't
-have his daughter made a staring stock of."[A]
+have his daughter made a staring stock of."[14]
 
-[Footnote A: Tooley, "Life of Florence Nightingale," p. 240.]
+[Footnote 14: Tooley, "Life of Florence Nightingale," p. 240.]
 
 After the first disappointment--which after all
 was perfectly natural--all sensible people realized
