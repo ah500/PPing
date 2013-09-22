@@ -1,6 +1,5 @@
 Stage 1:
 
-poetry line numbers
 move image tags to paragraph breaks
 
 balanced markup search: \<(\w+)>\n?[^<]+<(?!/\1>)
