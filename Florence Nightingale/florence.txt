@@ -2,18 +2,15 @@
 
 
 
-/F
   FLORENCE NIGHTINGALE
 
   THE ANGEL OF THE CRIMEA
-F/
 
   [Illustration: FLORENCE NIGHTINGALE.]
 
 
 
 
-/F
   FLORENCE NIGHTINGALE
   THE ANGEL OF THE CRIMEA
 
@@ -56,14 +53,11 @@ F/
   SORROWFUL, THIS BRIEF RECORD OF AN
   HEROIC LIFE IS AFFECTIONATELY
   DEDICATED
-F/
 
 
-/#
      For the material used in this little book I am chiefly indebted to
      Sarah A. Tooley's "Life of Florence Nightingale," and to Kinglake's
      "Invasion of the Crimea."
-#/
 
 
 
@@ -71,7 +65,6 @@ F/
 CONTENTS
 
 
-/*[2,70]
   CHAPTER                                   PAGE
 
   I. HOW FLORENCE GOT HER NAME--HER THREE
@@ -105,7 +98,6 @@ CONTENTS
 
   XV. THE TASKS OF PEACE                    159
 
-*/
 
 
 
@@ -582,7 +574,6 @@ know.)
 Perhaps they sang, too; perhaps they sang the pretty old Maypole Song.
 Do you know it?
 
-/P
     Come lasses and lads, get leave of your dads,
     And away to the Maypole hie,
     For ev'ry fair has a sweetheart there,
@@ -600,7 +591,6 @@ Do you know it?
     To play the tune again,
     And ev'ry girl did trip it, trip it,
     Trip it to the men.
-P/
 
 Then when feast and dance and song were all over, it was time to reform
 the procession and take up the homeward march. The two sisters, Florence
@@ -686,7 +676,6 @@ would come and sing on the lawn; old English carols, that had been sung
 by generation after generation. Poor Anthony Babington over at Lea Hall
 may have listened on Christmas Eve to the same sweet old songs.
 
-/P
     As Joseph was a-walking,
       He heard an angel sing,
     "This night shall be the birthnight
@@ -721,7 +710,6 @@ may have listened on Christmas Eve to the same sweet old songs.
       At this time of the year;
     And light you up your candles,
       For His star it shineth clear.
-P/
 
 Then who so glad as Florence to call the singers in and bid them welcome
 and "Merry Christmas!" and aid in distributing the mince pies and silver
@@ -992,7 +980,6 @@ CHAPTER VI.
 
 THE TRUMPET CALL.
 
-/P
     Willie, fold your little hands;[1]
       Let it drop--that "soldier" toy;
     Look where father's picture stands--
@@ -1052,7 +1039,6 @@ THE TRUMPET CALL.
     Once again--a different one--
     Say "O God! Thy will be done,
       By the Alma River."
-P/
 
 
 Open your atlas at the map of Russia. Look down toward the bottom, at
@@ -1181,7 +1167,6 @@ this terrible war. Remember, it is only one incident of that great
 battle of Balaklava, in which both sides claimed the victory, while
 neither gained any signal advantage.
 
-/P
     Half a league, half a league,[2]
         Half a league onward,
     All in the valley of Death
@@ -1242,7 +1227,6 @@ neither gained any signal advantage.
     Honor the charge they made!
     Honor the Light Brigade,
         Noble six hundred!
-P/
 
 
 I have already spoken of William Howard Russell. He was the war
@@ -1377,7 +1361,6 @@ Not content with pictures, _Punch_ printed "The Nightingale's Song to
 the Sick Soldier," which became very popular, and was constantly quoted
 in those days.
 
-/P
     Listen, soldier, to the tale of the tender nightingale,
       'Tis a charm that soon will ease your wounds so cruel,
     Singing medicine for your pain, in a sympathetic strain,
@@ -1402,7 +1385,6 @@ in those days.
       Hear the nightingale that's come to the Crimea;
     'Tis a nightingale as strong in her heart as in her song,
       To carry out so gallant an idea.
-P/
 
 Of course there were some people who shook their heads; there always are
 when any new work is undertaken. Some thought it was improper for women
@@ -1914,10 +1896,8 @@ only a very little money left.' But on opening the bag, what do you
 think was there? A blacking-brush and a pot of Warren's jet, and on the
 pot was written,
 
-/P
     "Poor young men their boots must black;
     Use me and cork me and put me back!"
-P/
 
 So Giglio laughed and blacked his boots, and put the brush and the
 bottle into the bag.
@@ -1925,7 +1905,6 @@ bottle into the bag.
 "When he had done dressing himself, the bag gave another hop, and he
 went to it and took out--
 
-/#
      1. A tablecloth and napkin.
 
      2. A sugar basin full of the best loaf sugar.
@@ -1946,7 +1925,6 @@ went to it and took out--
      18. A quarter of a pound of best Epping butter.
 
      19. A brown loaf.
-#/
 
 "And if he hadn't enough now for a good breakfast, I should like to know
 who ever had one?"
@@ -2062,7 +2040,6 @@ CHAPTER XI.
 
 THE LADY WITH THE LAMP.
 
-/P
     Whene'er a noble deed is wrought,[5]
     Whene'er is spoken a noble thought,
       Our hearts, in glad surprise,
@@ -2117,7 +2094,6 @@ THE LADY WITH THE LAMP.
     The palm, the lily, and the spear,
       The symbols that of yore
       Saint Filomena bore.
-P/
 
 
 
@@ -2388,7 +2364,6 @@ CHAPTER XII.
 
 WINTER.
 
-/P
     O the long and dreary winter![7]
     O the cold and cruel winter!
     Ever thicker, thicker, thicker
@@ -2410,7 +2385,6 @@ WINTER.
     Hungry was the sky above them,
     And the hungry stars in heaven
     Like the eyes of wolves glared at them!
-P/
 
 
 
@@ -2674,10 +2648,8 @@ There is no record of any single instance, through that terrible winter
 and spring, of her being unable to perform the duties she had taken upon
 her. She might have said with Sir Galahad:
 
-/P
     "My strength is as the strength of ten
     Because my heart is pure."
-P/
 
 
 
@@ -3228,9 +3200,7 @@ against the deep blue sky. This is the "Nightingale Cross," her own
 tribute to the brave men and the devoted nurses who died in the war. At
 the foot of the cross are these words:
 
-/P
     "Lord have mercy upon us."
-P/
 
 
 To every Englishman--nay, to everyone of any race who loves noble
@@ -3427,18 +3397,14 @@ STORIES FOR YOUNG READERS
 
 =JOURNEYS OF THE KIT KAT CLUB.= _Illustrated. 8vo. $2.00 Net._
 
-/#
      By William R. A. Wilson.
-#/
 
 A beautifully illustrated volume filled with interesting and salient
 features of English history, folk-lore, politics, and scenery.
 
 =BUTT CHANLER, FRESHMAN.= _Illustrated. 12mo. $1.50._
 
-/#
      By James Shelley Hamilton, Amherst '06.
-#/
 
 College sports are always a subject of interest to young readers, and
 here are incidents that are dear to all college associates.
@@ -3447,18 +3413,14 @@ here are incidents that are dear to all college associates.
 
 =WILLIAMS OF WEST POINT.= _Illustrated. 12mo. $1.50._
 
-/#
      By Lieut. Hugh S. Johnson.
-#/
 
 A story of West Point under the old code. "Every boy with red blood in
 his veins will pronounce it a corker."--_The Globe, Boston._
 
 =THE SUBSTITUTE.= _Illustrated. 12mo. $1.50._
 
-/#
      By Walter Camp.
-#/
 
 "Presents the ideal to football enthusiasts. The author's name is
 guarantee of the accuracy of descriptions of the plays."--_The Courant,
@@ -3466,9 +3428,7 @@ Hartford, Conn._
 
 =THE FOREST RUNNERS.= _Illustrated in Color. 12mo. $1.50._
 
-/#
      By Joseph A. Altsheler.
-#/
 
 This story deals with the further adventures of the two young woodsmen
 in the history of Kentucky who were heroes in "The Young Trailers." The
@@ -3489,7 +3449,6 @@ A Novel of Cape Cod Life, by Joseph C. Lincoln, Author of "Mr. Pratt,"
 "Cap'n Eri," etc. 27 illustrations by Wallace Morgan, colored inlay on
 cover. 12mo. Cloth, $1.50.
 
-/#
      Cape Cod life, as pictured by Joseph C. Lincoln, is delightful in
      its homeliness, its wholesomeness, its quaint simplicity. The plot
      of this novel revolves around a little girl whom an old bachelor,
@@ -3499,7 +3458,6 @@ cover. 12mo. Cloth, $1.50.
      then develops, and through it all runs that rich vein of humor
      which has won for the author a fixed place in the hearts of
      thousands of readers. Cy Whittaker is the David Harum of Cape Cod.
-#/
 
 
 =The Whispering Man.=
@@ -3507,14 +3465,12 @@ cover. 12mo. Cloth, $1.50.
 A Detective Story Worth While, by Henry Kitchell Webster. Frontispiece.
 12mo. Decorated cloth, $1.50.
 
-/#
      A detective story you ought to read. Something altogether
      _different_ in that the clues to the mystery lie open to the reader
      throughout the whole story, and are yet so concealed that the
      unsuspecting reader is amazed at the outcome. To those who have
      tired of the ordinary type of detective story, we commend this
      _different_ novel as most refreshing.
-#/
 
 
 D. APPLETON AND COMPANY, NEW YORK.
@@ -3590,26 +3546,21 @@ BY RALPH HENRY BARBOUR
 
 =The New Boy at Hilltop=
 
-/#
      Illustrated in Colors, Ornamental Cloth Cover with Inlay in Colors,
      12mo, $1.50.
-#/
 
-/#
      The story of a boy's experiences at boarding school. The first
      chapter describes his arrival and reception by the others. The
      remaining chapters tell of his life on the football field, on the
      crew, his various scrapes and fights, school customs and school
      entertainments. His experiences are varied and cover nearly all the
      incidents of boarding school life.
-#/
 
 
 =Winning His "Y"=
 
 Illustrated in Colors, 12mo, Decorated Cloth Cover, $1.50.
 
-/#
      The scene of this story is Yardley Hall, the school made famous in
      "Double Play" and "Forward Pass!"; and we meet again the manly,
      self-reliant Dan Vinton, his young friend Gerald Pennimore, and
@@ -3618,28 +3569,24 @@ Illustrated in Colors, 12mo, Decorated Cloth Cover, $1.50.
      new story is thus slightly connected with its predecessors, but
      will be fully as interesting to a boy who has not read them as if
      it were not.
-#/
 
 
 =Double Play=
 
 Illustrated in Colors, 12mo, Cloth, $1.50.
 
-/#
      Further experiences of Dan Vinton--hero of "Forward Pass!"--at
      Yardley Hall. He becomes in a way the mentor of the millionaire's
      son, Gerald Pennimore, who enters the school. There is the
      description of an exciting baseball game, and the stratagem by
      which the wily coach, Payson, puts some ginger into an overtrained
      squad and develops from it a winning team will appeal to every boy.
-#/
 
 
 =Forward Pass!=
 
 Illustrated in Colors, 12mo, Cloth, $1.50.
 
-/#
      In his new story, Mr. Barbour returns to the field of his earlier
      and more successful stories, such as "The Half-Back," "Captain of
      the Crew," etc. The main interest in "Forward Pass!" centers about
@@ -3647,7 +3594,6 @@ Illustrated in Colors, 12mo, Cloth, $1.50.
      preparatory-school life and adventures in general. The book
      contains several illustrations and a number of diagrams of the
      "new" football plays. Mr. Barbour considers this his best story.
-#/
 
 
 D. APPLETON AND COMPANY, NEW YORK
@@ -3685,12 +3631,10 @@ Who can tell of Yale traditions, Yale ideals, and the militant Yale
 spirit--which the famous author has marshaled on a hundred football
 fields--as well as Walter Camp?
 
-/#
      "Those interested in the great college game of football will find a
      most fascinating tale in 'The Substitute,' of which Walter Camp,
      the well-known coach and authority on the game, is the
      author."--_Brooklyn Eagle._
-#/
 
 
 D. APPLETON AND COMPANY, NEW YORK
