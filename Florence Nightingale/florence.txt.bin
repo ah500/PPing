@@ -73,7 +73,7 @@
  'Pg072' => {'offset' => '1643.50', 'label' => 'Pg 60', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg073' => {'offset' => '1669.44', 'label' => 'Pg 61', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg074' => {'offset' => '1694.9', 'label' => 'Pg 62', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg075' => {'offset' => '1721.55', 'label' => 'Pg 63', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg075' => {'offset' => '1721.50', 'label' => 'Pg 63', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg076' => {'offset' => '1750.38', 'label' => 'Pg 64', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg077' => {'offset' => '1778.40', 'label' => 'Pg 65', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg078' => {'offset' => '1803.8', 'label' => 'Pg 66', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -83,7 +83,7 @@
  'Pg082' => {'offset' => '1889.46', 'label' => 'Pg 70', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg083' => {'offset' => '1915.48', 'label' => 'Pg 71', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg084' => {'offset' => '1940.51', 'label' => 'Pg 72', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg085' => {'offset' => '1967.55', 'label' => 'Pg 73', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg085' => {'offset' => '1967.50', 'label' => 'Pg 73', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg086' => {'offset' => '1992.47', 'label' => 'Pg 74', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg087' => {'offset' => '2017.47', 'label' => 'Pg 75', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg088' => {'offset' => '2045.47', 'label' => 'Pg 76', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -186,7 +186,7 @@
  'Pg185' => {'offset' => '4679.33', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
 );
 
-$::bookmarks[0] = '3912.40';
+$::bookmarks[0] = '4720.7';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Florence Nightingale\page_images\\';
 

@@ -17,7 +17,7 @@ F/
 FLORENCE NIGHTINGALE
 THE ANGEL OF THE CRIMEA
 
-<i>A STORY FOR YOUNG PEOPLE</i>
+_A STORY FOR YOUNG PEOPLE_
 
 BY
 
@@ -39,7 +39,7 @@ NEW YORK AND LONDON
 <sc>Copyright, 1909, by</sc>
 D. APPLETON AND COMPANY
 
-<i>Published September, 1909</i>
+_Published September, 1909_
 
 Printed in the United States of America
 
@@ -335,7 +335,7 @@ LITTLE FLORENCE.
 All the boys, and very likely some of the
 girls, who have got as far as this second
 chapter, will glance down the page,
-and exclaim: "<i>Dolls!</i>" Then they will
+and exclaim: "_Dolls!_" Then they will
 add whatever is their favorite expression of scorn,
 and perhaps make a motion to lay the book down.
 
@@ -392,7 +392,7 @@ proper things. She and Parthe had a governess,
 and studied regularly, and had music and drawing
 lessons besides; and her father taught her to
 love English literature, and later opened to her the
-great doors marked <i>Latin</i> and <i>Greek</i>. Her mother,
+great doors marked _Latin_ and _Greek_. Her mother,
 meantime, taught her all kinds of handiwork, and
 before she was twelve years old she could hemstitch,
 and seam and embroider. These things were
@@ -983,7 +983,7 @@ with her fingers; the first time this had ever been
 done with a person so afflicted. He had labored
 to help the prisoners and captives in the North, and
 the slaves in the South; in short he was what is
-called a <i>philanthropist</i>, that is, one who loves his
+called a _philanthropist_, that is, one who loves his
 fellow-men and tries to help them.
 
 My father and mother were traveling in England
@@ -1212,7 +1212,7 @@ owing to lack of means and good management. The
 friends of the institution were discouraged; but discouragement,
 was a word not to be found in Miss
 Nightingale's dictionary. There was no money?
-Well, there must <i>be</i> money! She went quietly to
+Well, there must _be_ money! She went quietly to
 work, interested her own friends to subscribe, then
 talked with the discouraged people, restoring their
 confidence and inducing them to renew their subscriptions;
@@ -1274,7 +1274,7 @@ On thy heights, Sevastopol!
 Willie, all to you and me
 Is that spot, whate'er it be,
 Where he stands--no other word--
-<i>Stands</i>--God sure the child's prayers heard--
+_Stands_--God sure the child's prayers heard--
   Near the Alma River.
 
 Willie, listen to the bells
@@ -1286,7 +1286,7 @@ We, who need not--just to keep
 Reason clear in thought and brain
 Till the morning comes again;
 Till the third dread morning tell
-Who they were that fought and--<i>fell</i>
+Who they were that fought and--_fell_
   By the Alma River.
 
 Come, we'll lay us down, my child;
@@ -1297,7 +1297,7 @@ Dreaming of us two at home;
 Or, beneath the starry dome,
 Digs out trenches in the dark,
 Where he buries--Willie, mark!
-Where <i>he buries</i> those who died
+Where _he buries_ those who died
 Fighting--fighting at his side--
   By the Alma River.
 
@@ -1322,7 +1322,7 @@ part of the great empire which borders
 on the Euxine or Black Sea; there you
 will find a small peninsula--it is really almost an
 island, being surrounded on three sides by water--labeled
-"<i>Crimea</i>." It is only a part of one of the
+"_Crimea_." It is only a part of one of the
 smallest of Russia's forty-odd provinces, the province
 of Taurida; yet it is one of the famous places
 of history, for here, in the years 1854 and 1855, was
@@ -1407,7 +1407,7 @@ were so great and terrible that it paralyzed those
 who saw it.
 
 "It is now pouring rain," wrote William Howard
-Russell to the London <i>Times</i>, "the skies are black
+Russell to the London _Times_, "the skies are black
 as ink, the wind is howling over the staggering
 tents, the trenches are turned into dykes; in the
 tents the water is sometimes a foot deep; our men
@@ -1446,7 +1446,7 @@ were frozen in their tents.
 
 No one meant to be cruel or neglectful; but there
 were not half enough doctors, and--think of it,
-children! there were <i>no nurses</i>.
+children! there were _no nurses_.
 
 How did this happen? Well, when the war broke
 out the military authorities did not want female
@@ -1557,7 +1557,7 @@ P/
 [Footnote 2: "Charge of the Light Brigade," by Alfred, Lord Tennyson.]
 
 I have already spoken of William Howard Russell.
-He was the war correspondent of the <i>Times</i>,
+He was the war correspondent of the _Times_,
 the great English newspaper, and a man of intelligence,
 heart and feeling. He was on the spot,
 and saw the horrors of the war at first-hand.
@@ -1672,7 +1672,7 @@ Great was the amazement in England. Nothing
 of this kind had ever been heard of before. "Who
 is Miss Nightingale?" people cried all over the
 country. They were answered by the newspapers.
-First the <i>Examiner</i> and then the <i>Times</i> told them
+First the _Examiner_ and then the _Times_ told them
 that Miss Nightingale was "a young lady of singular
 endowments both natural and acquired. In a
 knowledge of the ancient languages and of the
@@ -1718,7 +1718,7 @@ Florence Nightingale was a name to conjure with,
 as the saying is, and it echoed far and wide. Everybody
 who could write verses (and many who could
 not), began instantly to write about nightingales.
-<i>Punch</i> printed a cartoon showing a hospital ward,
+_Punch_ printed a cartoon showing a hospital ward,
 with the "ladybirds" hovering about the cots of
 the sick men, each bird having a nurse's head. Another
 picture represented one of the bird-nurses flying
@@ -1728,7 +1728,7 @@ was called "The Jug of the Nightingale," for many
 people think that some of the bird's beautiful, liquid
 notes sound like "jug, jug, jug!"
 
-Not content with pictures, <i>Punch</i> printed "The
+Not content with pictures, _Punch_ printed "The
 Nightingale's Song to the Sick Soldier," which became
 very popular, and was constantly quoted in
 those days.
@@ -1821,16 +1821,16 @@ should they not welcome the English sisters who
 were going to join in the holy work?
 
 Loudly they proclaimed that none but themselves,
-the fishwives of Boulogne, should help the <i>s[oe]urs
-Anglaises</i>. They shouldered bag and baggage;
+the fishwives of Boulogne, should help the _s[oe]urs
+Anglaises_. They shouldered bag and baggage;
 they swung the heavy trunks up on their broad
 backs, and with laughter and tears mingled in true
 French fashion, trudged away to the railway station.
 Pay? Not a sou; not a centime! The blessing
 of our English sisters is all we desire; and if
-they should chance to see Pierre or Jacques <i>là-bas</i>--ah!
+they should chance to see Pierre or Jacques _là-bas_--ah!
 the heavens are over all. A handshake, then,
-and <i>Adieu! Adieu! vivent les s[oe]urs!</i> the good God
+and _Adieu! Adieu! vivent les s[oe]urs!_ the good God
 go with you!
 
 And that prayer was surely answered.
@@ -1887,8 +1887,8 @@ suffered. Poor Io! one is glad to read that she was
 released at last, and given her woman's body again.
 True? No, the story is not true, but it is very
 famous. Those of you who care about moths will
-find another reminder of Io in the beautiful <i>Saturnia
-Io</i>, which is named for the Greek maiden and
+find another reminder of Io in the beautiful _Saturnia
+Io_, which is named for the Greek maiden and
 her cruel foe, Saturnia being another name for Hera
 or Juno.
 
@@ -1964,11 +1964,11 @@ is to the last-named that we are going.
 Although actually a suburb of Constantinople,
 Scutari is a town in itself, and a large and ancient
 one. In the earliest times of the great
-Persian monarchy, it was called <i>Chrysopolis</i>, the
+Persian monarchy, it was called _Chrysopolis_, the
 Golden City. Its present name means in Persian a
 courier who carries royal orders from station to
 station; that is because the place has always, from
-its earliest days, been a <i>rendezvous</i> for caravans,
+its earliest days, been a _rendezvous_ for caravans,
 messengers, travelers of every description. Here
 Xenophon and his Greeks, returning from the war
 against Cyrus, halted for seven days while the soldiers
@@ -2125,7 +2125,7 @@ seemed to fall upon the minds of the workers. They
 felt that the task was hopeless, and they went
 about their duties like people in a nightmare. The
 strangest thing of all, to us now, seems to be that
-they <i>did not tell</i>. Though Mr. Russell and others
+they _did not tell_. Though Mr. Russell and others
 wrote to England of the horrors of the hospitals,
 the authorities themselves were silent, or if questioned,
 would only reply that everything was "all
@@ -2177,12 +2177,12 @@ They knew the things had come, but they were not
 sure just who were the proper persons to open the
 cargoes, take out and distribute the stores; it must
 not be done except by the proper persons. This
-is what is called <i>red tape</i>; it stands for authority
+is what is called _red tape_; it stands for authority
 without intelligence, and many books have been
 written about it. I remember, when I was a child,
-a cartoon in <i>Punch</i> showing the British soldier entangled
+a cartoon in _Punch_ showing the British soldier entangled
 in the coils of a frightful serpent, struggling
-for life; the serpent was labeled "<i>Red Tape</i>."
+for life; the serpent was labeled "_Red Tape_."
 (The monster is still alive in our day, but he is
 not nearly so powerful, and people are always on
 the lookout for him, and can generally drive him
@@ -2302,7 +2302,7 @@ one ever thought of disputing, she gave her orders,
 directing where the sufferers were to be taken, what
 doctor was to be summoned, what nurses to attend
 them. During these days she was known sometimes
-to stand on her feet <i>twenty hours at a time</i>, seeing
+to stand on her feet _twenty hours at a time_, seeing
 that each man was put in the right place, where he
 might receive the right kind of help. I ask you
 to think of this for a moment. Twenty hours!
@@ -2428,12 +2428,12 @@ had anticipated all this, and was ready for it. The
 materials for all the arrowroot, beef-tea, chicken
 broth, wine jelly, of those first weeks, came out of
 her own stores, brought out with her in the vessel,
-the <i>Victis</i>, from England. She had no intention
+the _Victis_, from England. She had no intention
 of waiting a day or an hour for anyone; she had
 not a day or an hour to waste.
 
 It must have been a wonderful cargo, that of the
-<i>Victis</i>; I can think of nothing but the astonishing
+_Victis_; I can think of nothing but the astonishing
 bag of the Mother in the "Swiss Family Robinson,"
 or that still more marvelous one of the Fairy Blackstick.
 Do you remember?
@@ -2727,21 +2727,21 @@ It was dated Windsor Castle, December
 "Would you tell Mrs. Herbert," wrote good
 Queen Victoria, "that I beg she would let me see
 frequently the accounts she receives from Miss
-Nightingale or Mrs. Bracebridge, as <i>I hear no details
-of the wounded</i>, though I see so many from officers,
+Nightingale or Mrs. Bracebridge, as _I hear no details
+of the wounded_, though I see so many from officers,
 etc., about the battlefield, and naturally the former
 must interest me more than anyone.
 
 "Let Mrs. Herbert also know that I wish Miss
 Nightingale and the ladies would tell these poor,
-noble wounded and sick men, that <i>no one</i> takes a
-warmer interest or feels <i>more</i> for their sufferings or
-admires their courage and heroism <i>more</i> than their
+noble wounded and sick men, that _no one_ takes a
+warmer interest or feels _more_ for their sufferings or
+admires their courage and heroism _more_ than their
 Queen. Day and night she thinks of her beloved
 troops. So does the Prince.
 
 "Beg Mrs. Herbert to communicate these my
-words to those ladies, as I know that <i>our</i> sympathy
+words to those ladies, as I know that _our_ sympathy
 is much valued by these noble fellows.--Victoria."
 
 I think the tears may have come into those clear
@@ -2805,13 +2805,13 @@ these fine and delicate things, before the Sisters
 could get their hands on them!
 
 These private gifts were not the only nor the
-largest ones. The <i>Times</i>, which you will remember
+largest ones. The _Times_, which you will remember
 had been the first to reveal the terrible conditions
 in the Crimea, now set to work and organized a
 fund for the relief of the wounded. A subscription
 list was opened, and from every part of the
 United Kingdom money flowed in like water. The
-<i>Times</i> undertook to distribute the money, and appointed
+_Times_ undertook to distribute the money, and appointed
 a good and wise man, Mr. McDonald, to
 go out to the East and see how it could best be
 applied.
@@ -2821,7 +2821,7 @@ of thing that, in one way or another, was constantly
 happening in connection with the Crimean War.
 Mr. McDonald went to the highest authorities in
 the War Office and told of his purpose. They bowed
-and smiled and said the <i>Times</i> and its subscribers
+and smiled and said the _Times_ and its subscribers
 were very kind, but the fact was that such ample
 provision had been made by the Government that
 it was hardly likely the money would be needed.
@@ -2858,7 +2858,7 @@ ice and snow; and they had no clothes save the
 light linen suits which had been given them to wear
 under the hot sun of Gibraltar.
 
-Here was a chance for the <i>Times</i> fund! Without
+Here was a chance for the _Times_ fund! Without
 more ado Mr. McDonald went into the bazaars
 of Constantinople and bought flannels and woolens,
 until every man in that regiment had a good
@@ -2886,7 +2886,7 @@ still higher, to "another and more august quarter";
 the answer was still more emphatic: there was
 no possible occasion for help; soldiers and sailors
 had everything they required; if he wished to dispose
-of the <i>Times</i> fund, it might be a good thing
+of the _Times_ fund, it might be a good thing
 to build an English church at Pera!
 
 "Yet, at that very time," says the historian of
@@ -2983,7 +2983,7 @@ attended."
 
 Look with me for a moment into one of these
 wards, these "miles of sick" through which the
-agent of the <i>Times</i> passed with his guide. It is
+agent of the _Times_ passed with his guide. It is
 night. Outside, the world is wide and wonderful
 with moon and stars. Beyond the dark-blue waters
 of the Bosporus, the lights of Stamboul flash and
@@ -3008,7 +3008,7 @@ thought that with care and nursing the arm might
 be saved; would they kindly delay the operation at
 least for a few days? The surgeons consented, for
 by this time no one could or would refuse her anything.
-The arm <i>was</i> saved; now the bones are knitting
+The arm _was_ saved; now the bones are knitting
 nicely, and by and by he will be well and strong
 again, with both arms to work and play and fight
 with.
@@ -3133,10 +3133,10 @@ white blanket covered his last sleep.
 
 In the harbor even more ruin was wrought, for
 the ships were dashed about like broken toys that a
-wilful child flings hither and thither. The <i>Prince</i>,
+wilful child flings hither and thither. The _Prince_,
 which had just arrived loaded with clothing, medicines,
 stores of every description, went down with
-all her precious freight; the <i>Resolute</i> was lost,
+all her precious freight; the _Resolute_ was lost,
 too, the principal ammunition ship of the army; and
 other vessels loaded with hay for the horses, a supply
 which would have fed them for twenty days.
@@ -3160,7 +3160,7 @@ steady stream of poor wretches came creeping up
 the hill at Scutari?
 
 The Lady-in-Chief was ready for them. Thanks
-to the <i>Times</i> fund and other subscriptions, she now
+to the _Times_ fund and other subscriptions, she now
 had ample provision for many days. Moreover, by
 this winter time her influence so dominated the hospital
 that not only was there no opposition to her
@@ -3287,9 +3287,9 @@ the soldier be forgotten."
 
 Another helper came out to Scutari in those
 winter days; a gallant Frenchman, M. Soyer, who
-had been for years <i>chef</i> of one of the great London
+had been for years _chef_ of one of the great London
 clubs, and who knew all that there was to know
-about cookery. He read the <i>Times</i>, and in February,
+about cookery. He read the _Times_, and in February,
 1855, he wrote to the editor:
 
 "<sc>Sir</sc>: After carefully perusing the letter of your
@@ -3454,12 +3454,12 @@ Scutari, she had brought its hospitals
 into excellent condition; now she felt that she must
 see what was being done and what still needed to
 be done elsewhere. Accordingly she set sail in the
-ship <i>Robert Lowe</i>, accompanied by her faithful
+ship _Robert Lowe_, accompanied by her faithful
 friend Mr. Bracebridge, who, with his admirable
 wife, had come out with her from England, and had
 been her constant helper and adviser; M. Soyer, who
 was going to see how kitchen matters were going
-<i>là-bas</i>, and her devoted boy Thomas. Thomas had
+_là-bas_, and her devoted boy Thomas. Thomas had
 been a drummer boy. He was twelve years old,
 and devoted to his drum until he came under the
 spell of the Lady-in-Chief. Then he transferred his
@@ -3756,12 +3756,12 @@ Crimea itself. Sick or well, there was no resisting
 the Lady-in-Chief. The stretcher was brought again,
 and eight soldiers carried her down the mountainside
 and so down to the port of Balaklava. The
-<i>Jura</i> lay at the wharf; a tackle was rigged, and the
+_Jura_ lay at the wharf; a tackle was rigged, and the
 stretcher hoisted on board, the patient lying motionless
 but undaunted the while; but this vessel
 proved unsuitable, and she had to be moved twice
 before she was finally established on a private yacht,
-the <i>New London</i>.
+the _New London_.
 
 Before she sailed, Lord Raglan came to see her
 again. It was the last time they ever met, for a
@@ -4442,8 +4442,8 @@ THE END.
 
 STORIES FOR YOUNG READERS
 
-<b>JOURNEYS OF THE KIT KAT CLUB.</b> <i>Illustrated.
-8vo. $2.00 Net.</i>
+<b>JOURNEYS OF THE KIT KAT CLUB.</b> _Illustrated.
+8vo. $2.00 Net._
 
 /#
 By <sc>William R. A. Wilson</sc>.
@@ -4452,8 +4452,8 @@ By <sc>William R. A. Wilson</sc>.
 A beautifully illustrated volume filled with interesting and salient
 features of English history, folk-lore, politics, and scenery.
 
-<b>BUTT CHANLER, FRESHMAN.</b> <i>Illustrated.
-12mo. $1.50.</i>
+<b>BUTT CHANLER, FRESHMAN.</b> _Illustrated.
+12mo. $1.50._
 
 /#
 By <sc>James Shelley Hamilton</sc>, Amherst '06.
@@ -4462,32 +4462,32 @@ By <sc>James Shelley Hamilton</sc>, Amherst '06.
 College sports are always a subject of interest to young readers,
 and here are incidents that are dear to all college associates.
 
-"The story is breezy, bright, and clean."--<i>The Bookseller, New
-York</i>.
+"The story is breezy, bright, and clean."--_The Bookseller, New
+York_.
 
-<b>WILLIAMS OF WEST POINT.</b> <i>Illustrated. 12mo.
-$1.50.</i>
+<b>WILLIAMS OF WEST POINT.</b> _Illustrated. 12mo.
+$1.50._
 
 /#
 By Lieut. <sc>Hugh S. Johnson</sc>.
 #/
 
 A story of West Point under the old code. "Every boy with
-red blood in his veins will pronounce it a corker."--<i>The Globe,
-Boston.</i>
+red blood in his veins will pronounce it a corker."--_The Globe,
+Boston._
 
-<b>THE SUBSTITUTE.</b> <i>Illustrated. 12mo. $1.50.</i>
+<b>THE SUBSTITUTE.</b> _Illustrated. 12mo. $1.50._
 
 /#
 By <sc>Walter Camp</sc>.
 #/
 
 "Presents the ideal to football enthusiasts. The author's name
-is guarantee of the accuracy of descriptions of the plays."--<i>The
-Courant, Hartford, Conn.</i>
+is guarantee of the accuracy of descriptions of the plays."--_The
+Courant, Hartford, Conn._
 
-<b>THE FOREST RUNNERS.</b> <i>Illustrated in Color.
-12mo. $1.50.</i>
+<b>THE FOREST RUNNERS.</b> _Illustrated in Color.
+12mo. $1.50._
 
 /#
 By <sc>Joseph A. Altsheler</sc>.
@@ -4536,11 +4536,11 @@ cloth, $1.50.
 
 /#
 A detective story you ought to read. Something altogether
-<i>different</i> in that the clues to the mystery lie open to
+_different_ in that the clues to the mystery lie open to
 the reader throughout the whole story, and are yet so concealed
 that the unsuspecting reader is amazed at the outcome.
 To those who have tired of the ordinary type of detective
-story, we commend this <i>different</i> novel as most refreshing.
+story, we commend this _different_ novel as most refreshing.
 #/
 
 
@@ -4549,66 +4549,66 @@ D. APPLETON AND COMPANY, NEW YORK.
 
 NOVELS BY ROBERT W. CHAMBERS.
 
-<b>SPECIAL MESSENGER.</b> <i>Illustrated. 12mo. Cloth, $1.50.</i>
+<b>SPECIAL MESSENGER.</b> _Illustrated. 12mo. Cloth, $1.50._
 
 A romantic love story of a woman spy in the Civil War.
 
-<b>THE FIRING LINE.</b> <i>Illustrated. 12mo. Cloth, $1.50.</i>
+<b>THE FIRING LINE.</b> _Illustrated. 12mo. Cloth, $1.50._
 
 "The tale is rich in vivid descriptions, pleasing incidents, effective situations,
-human interest and luxurious scenic effects. It is a story to be remembered."--<i>Grand
-Rapids Herald.</i>
+human interest and luxurious scenic effects. It is a story to be remembered."--_Grand
+Rapids Herald._
 
-<b>THE YOUNGER SET.</b> <i>Illustrated. Cloth, $1.50.</i>
+<b>THE YOUNGER SET.</b> _Illustrated. Cloth, $1.50._
 
 "The Younger Set" is a novel of the swirl of wealthy New York society.
 The hero, forced out of the army by domestic troubles, returns to New York
 homeless and idle. He finds a beautiful girl who promises ideal happiness.
 But new complications intervene and are described with what the New York
-<i>Sun</i> calls Mr. Chambers' "amazing knack of narrative."
+_Sun_ calls Mr. Chambers' "amazing knack of narrative."
 
-<b>THE FIGHTING CHANCE.</b> <i>Illustrated. Cloth, $1.50.</i>
+<b>THE FIGHTING CHANCE.</b> _Illustrated. Cloth, $1.50._
 
 One of the most brilliant pictures of wealthy American society ever painted;
 one of the most interesting and appealing stories ever written; one of the most
 widely read of all American novels.
 
-<b>SOME LADIES IN HASTE.</b> <i>Illustrated. Cloth, $1.50.</i>
+<b>SOME LADIES IN HASTE.</b> _Illustrated. Cloth, $1.50._
 
 Mr. Chambers has written most delightfully, and in his charming satire
 depicts the plight of five society girls and five clubmen.
 
-<b>IOLE.</b> <i>Illustrated. Cloth, $1.25.</i>
+<b>IOLE.</b> _Illustrated. Cloth, $1.25._
 
 "Think of eight pretty girls in pink silk pajamas and sunbonnets, brought
 up in innocence in a scientific Eden, with a 'House Beautiful' in the back-ground,
 and a poetical father in the foreground. Think again of those rose-petalled
 creations turned loose upon New York society and then enjoy the fun
-of it all in 'Iole.'"--<i>Boston Herald.</i>
+of it all in 'Iole.'"--_Boston Herald._
 
-<b>THE TRACER OF LOST PERSONS.</b> <i>Illustrated. Cloth, $1.50.</i>
+<b>THE TRACER OF LOST PERSONS.</b> _Illustrated. Cloth, $1.50._
 
 The captivating account of the strangely absorbing adventures of a "matrimonial
 sleuth," "a deputy of Cupid."
 
 "Compared with him Sherlock Holmes is clumsy and without human
-emotions."--<i>Chicago Inter-Ocean.</i>
+emotions."--_Chicago Inter-Ocean._
 
-<b>THE TREE OF HEAVEN.</b> <i>Illustrated. Cloth, $1.50.</i>
+<b>THE TREE OF HEAVEN.</b> _Illustrated. Cloth, $1.50._
 
 If you looked squarely into a mirror and saw your PROFILE instead of
-your full face, <i>if you suddenly found yourself 25 miles away from yourself</i>,
+your full face, _if you suddenly found yourself 25 miles away from yourself_,
 you would be in one of the tantalizing situations that give fascination to this
 charming book.
 
-<b>THE RECKONING.</b> <i>Illustrated. Cloth, $1.50.</i>
+<b>THE RECKONING.</b> _Illustrated. Cloth, $1.50._
 
 A story of northern New York during the last fierce fights between Tories
 and Revolutionaries and the Iroquois Indians, by which tribe the hero had
 been adopted.
 
 "It would be but an unresponsive American that would not thrill to such
-relations."--<i>New York Times.</i>
+relations."--_New York Times._
 
 
 D. APPLETON AND COMPANY, NEW YORK.
@@ -4716,8 +4716,8 @@ on a hundred football fields--as well as Walter Camp?
 /#
 "Those interested in the great college game of football will find
 a most fascinating tale in 'The Substitute,' of which Walter Camp, the
-well-known coach and authority on the game, is the author."--<i>Brooklyn
-Eagle.</i>
+well-known coach and authority on the game, is the author."--_Brooklyn
+Eagle._
 #/
 
 
