@@ -186,7 +186,7 @@
  'Pg185' => {'offset' => '4650.33', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
 );
 
-$::bookmarks[0] = '4697.0';
+$::bookmarks[0] = '74.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Florence Nightingale\page_images\\';
 
@@ -1118,25 +1118,25 @@ $::proofers{'185'}[5] = 'hazeleyeflgal';
 
 
 $::operationshash{'Check Stealthos Word Frequency'}='2013-08-21 18:27:21';
-$::operationshash{'pptxt'}='2013-08-21 19:02:51';
+$::operationshash{'pptxt'}='2013-08-22 14:28:16';
 $::operationshash{'Found last page separator'}='2013-08-15 16:21:30';
 $::operationshash{'Begin Page Separators Fixup'}='2013-08-15 16:18:05';
 $::operationshash{'Check hyphens'}='2013-08-21 18:35:37';
 $::operationshash{'Fixup Routine'}='2013-08-15 16:11:19';
 $::operationshash{'Check spelling wordfrequency'}='2013-08-21 18:27:31';
 $::operationshash{'Moved footnotes to landing zone'}='2013-08-22 14:24:37';
-$::operationshash{'Footnote check passed'}='2013-08-22 14:24:29';
+$::operationshash{'Footnote check passed'}='2013-08-22 14:25:24';
 $::operationshash{'Check ALL CAPS'}='2013-08-21 18:36:39';
 $::operationshash{'Gutcheck'}='2013-08-21 18:29:33';
 $::operationshash{'Reindex footnotes'}='2013-08-22 12:44:04';
 $::operationshash{'Check emdashes'}='2013-08-21 18:35:36';
 $::operationshash{'Check , Upper'}='2013-08-21 18:36:17';
-$::operationshash{'Footnote Fixup'}='2013-08-22 14:24:14';
+$::operationshash{'Footnote Fixup'}='2013-08-22 14:25:21';
 $::operationshash{'Word Frequency'}='2013-08-21 18:35:34';
 $::operationshash{'Check MiXeD CasE'}='2013-08-21 18:36:40';
 $::operationshash{'Check Accents'}='2013-08-21 18:36:30';
 $::operationshash{'Check . lower'}='2013-08-21 18:36:26';
-$::operationshash{'Remove end-of-line spaces'}='2013-08-22 14:17:29';
+$::operationshash{'Remove end-of-line spaces'}='2013-08-22 14:29:49';
 
 
 $::spellindexbkmrk = '';
