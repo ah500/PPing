@@ -1423,7 +1423,7 @@ rain, leads the life of a prince compared with the
 British soldiers who are fighting out here for their
 country.
 
-<tb>
+       *       *       *       *       *
 
 "The commonest accessories of a hospital are
 wanting; there is not the least attention paid to decency
@@ -3061,7 +3061,7 @@ Fell the snow o'er all the landscape,
 Fell the covering snow, and drifted
 Through the forest, round the village.
 
-<tb>
+       *       *       *       *       *
 
 O the famine and the fever!
 O the wasting of the famine!
@@ -3909,7 +3909,7 @@ the other, choked by emotion, turning away from
 the glass. 'The French flag is in the Malakoff
 mamelon!'"
 
-<tb>
+       *       *       *       *       *
 
 It is thus that Tolstoi, the great Russian writer,
 describes the fall of Sebastopol, as he saw it. At

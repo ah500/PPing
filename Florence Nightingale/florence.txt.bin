@@ -186,7 +186,7 @@
  'Pg185' => {'offset' => '4679.33', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
 );
 
-$::bookmarks[0] = '1.0';
+$::bookmarks[0] = '3912.40';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Florence Nightingale\page_images\\';
 
@@ -1117,23 +1117,23 @@ $::proofers{'185'}[4] = 'bertzi';
 $::proofers{'185'}[5] = 'hazeleyeflgal';
 
 
-$::operationshash{'pptxt'}='2013-08-21 19:02:51';
 $::operationshash{'Check Stealthos Word Frequency'}='2013-08-21 18:27:21';
-$::operationshash{'Check hyphens'}='2013-08-21 18:35:37';
-$::operationshash{'Begin Page Separators Fixup'}='2013-08-15 16:18:05';
+$::operationshash{'pptxt'}='2013-08-21 19:02:51';
 $::operationshash{'Found last page separator'}='2013-08-15 16:21:30';
-$::operationshash{'Check spelling wordfrequency'}='2013-08-21 18:27:31';
+$::operationshash{'Begin Page Separators Fixup'}='2013-08-15 16:18:05';
+$::operationshash{'Check hyphens'}='2013-08-21 18:35:37';
 $::operationshash{'Fixup Routine'}='2013-08-15 16:11:19';
+$::operationshash{'Check spelling wordfrequency'}='2013-08-21 18:27:31';
 $::operationshash{'Footnote check passed'}='2013-08-22 12:43:49';
 $::operationshash{'Check ALL CAPS'}='2013-08-21 18:36:39';
-$::operationshash{'Reindex footnotes'}='2013-08-22 12:44:04';
 $::operationshash{'Gutcheck'}='2013-08-21 18:29:33';
+$::operationshash{'Reindex footnotes'}='2013-08-22 12:44:04';
 $::operationshash{'Check emdashes'}='2013-08-21 18:35:36';
-$::operationshash{'Footnote Fixup'}='2013-08-22 12:41:59';
 $::operationshash{'Check , Upper'}='2013-08-21 18:36:17';
+$::operationshash{'Footnote Fixup'}='2013-08-22 12:41:59';
 $::operationshash{'Word Frequency'}='2013-08-21 18:35:34';
-$::operationshash{'Check Accents'}='2013-08-21 18:36:30';
 $::operationshash{'Check MiXeD CasE'}='2013-08-21 18:36:40';
+$::operationshash{'Check Accents'}='2013-08-21 18:36:30';
 $::operationshash{'Check . lower'}='2013-08-21 18:36:26';
 $::operationshash{'Remove end-of-line spaces'}='2013-08-15 16:12:22';
 
