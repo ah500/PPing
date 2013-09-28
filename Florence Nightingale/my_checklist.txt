@@ -1,6 +1,5 @@
 Stage 3:
 
-Check for [symbol] and replace appropriately
 move footnotes to correct place (usually bottom of file)
 
 Open HTML palette and choose options
