@@ -1,7 +1,5 @@
 Stage 3:
 
-pphtml
-
 upload finished project
 	create new folder
 	copy in etext files, bin files html files, images dir if needed by html
