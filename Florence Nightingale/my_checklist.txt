@@ -1,12 +1,5 @@
 Stage 3:
 
-hyperlink (make sure links big enough, espec footnotes)
-	TOC
-	index
-	page references (check for page or see )
-	footnotes
-	TN as required
-
 Write and spell check Transcriber's Note
 format TN
 
