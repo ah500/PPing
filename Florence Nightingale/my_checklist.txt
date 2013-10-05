@@ -1,7 +1,5 @@
 Stage 3:
 
-Check for [**
-
 remove unwanted css classes
 Check for allcaps smallcaps:
 	search <span class="smcap">(\n*[^a-z<]+)</span> 
