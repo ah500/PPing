@@ -1,7 +1,5 @@
 Stage 3:
 
-remove unwanted css classes
-
 HTML validation
 CSS validation
 
