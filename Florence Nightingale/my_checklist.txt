@@ -1,8 +1,5 @@
 Stage 3:
 
-Write and spell check Transcriber's Note
-format TN
-
 Check title at top of project is correct
 
 Add info for a cover image if available
@@ -41,5 +38,3 @@ upload finished project
 
 Some useful links: http://www.pgdp.net/wiki/The_Proofreader%27s_Guide_to_EPUB#How_to_Author_HTML_That_Converts_Gracefully_to_EPUB
 http://www.pgdp.net/wiki/Post-Processing_Advice#ppg
-
-Transcribers note:
