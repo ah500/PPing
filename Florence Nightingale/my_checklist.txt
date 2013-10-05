@@ -1,10 +1,6 @@
 Stage 3:
 
 remove unwanted css classes
-Check for allcaps smallcaps:
-	search <span class="smcap">(\n*[^a-z<]+)</span> 
-	replace <span class="smcaplc">$1</span>
-	add: .smcaplc  { text-transform: lowercase; font-variant: small-caps; }  to CSS
 
 Check accessability
 
