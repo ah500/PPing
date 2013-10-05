@@ -186,7 +186,7 @@
  'Pg185' => {'offset' => '4868.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
 );
 
-$::bookmarks[0] = '217.3';
+$::bookmarks[0] = '193.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Florence Nightingale\page_images\\';
 
@@ -1117,12 +1117,14 @@ $::proofers{'185'}[4] = 'bertzi';
 $::proofers{'185'}[5] = 'hazeleyeflgal';
 
 
-$::operationshash{'pphtml'}='2013-09-05 20:38:16';
+$::operationshash{'pphtml'}='2013-09-05 20:44:42';
 $::operationshash{'pptxt'}='2013-08-21 19:02:51';
 $::operationshash{'Check Stealthos Word Frequency'}='2013-08-21 18:27:21';
 $::operationshash{'Check hyphens'}='2013-08-21 18:35:37';
 $::operationshash{'Begin Page Separators Fixup'}='2013-08-15 16:18:05';
 $::operationshash{'Found last page separator'}='2013-08-15 16:21:30';
+$::operationshash{'ppvimage'}='2013-09-05 20:44:40';
+$::operationshash{'W3C Validate'}='2013-09-05 20:44:40';
 $::operationshash{'Check spelling wordfrequency'}='2013-08-21 18:27:31';
 $::operationshash{'Fixup Routine'}='2013-08-15 16:11:19';
 $::operationshash{'Begin HTML Generation'}='2013-09-05 20:32:09';
@@ -1135,9 +1137,10 @@ $::operationshash{'Gutcheck'}='2013-08-21 18:29:33';
 $::operationshash{'Check emdashes'}='2013-08-21 18:35:36';
 $::operationshash{'Footnote Fixup'}='2013-08-28 22:01:25';
 $::operationshash{'Check , Upper'}='2013-08-21 18:36:17';
-$::operationshash{'Link Check'}='2013-09-05 20:37:36';
+$::operationshash{'W3C Validate CSS'}='2013-09-05 20:44:42';
+$::operationshash{'Link Check'}='2013-09-05 20:44:42';
 $::operationshash{'Word Frequency'}='2013-08-21 18:35:34';
-$::operationshash{'HTML Tidy'}='2013-09-05 20:35:41';
+$::operationshash{'HTML Tidy'}='2013-09-05 20:44:40';
 $::operationshash{'Check MiXeD CasE'}='2013-08-21 18:36:40';
 $::operationshash{'Check Accents'}='2013-08-21 18:36:30';
 $::operationshash{'Check . lower'}='2013-08-21 18:36:26';
