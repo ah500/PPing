@@ -1,6 +1,5 @@
 Stage 3:
 
-Check my project notes
 Check for [**
 
 remove unwanted css classes
