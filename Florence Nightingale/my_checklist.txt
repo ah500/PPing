@@ -2,11 +2,6 @@ Stage 3:
 
 remove unwanted css classes
 
-Check accessability
-
-link checker - removed unused anchors (except page anchors)
-run tidy
-
 HTML validation
 CSS validation
 
