@@ -1,7 +1,6 @@
 Stage 3:
 
 Start at the top of the document and match each element to the images especially check 
-	chapter headings
 	images - give size of images
 		- regex to put link to big image around images: 
 			search: <img src=("images/[0-9i_]+)_s.jpg"
