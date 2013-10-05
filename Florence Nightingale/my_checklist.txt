@@ -1,7 +1,5 @@
 Stage 3:
 
-Add info for a cover image if available
-
 find orphaned markup (in HTML palette)
 Check my project notes
 Check for [**
