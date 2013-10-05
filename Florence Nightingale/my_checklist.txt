@@ -1,6 +1,5 @@
 Stage 3:
 
-find orphaned markup (in HTML palette)
 Check my project notes
 Check for [**
 
